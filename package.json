@@ -1,0 +1,22 @@
+{
+  "name": "hola-mundo",
+  "version": "1.0.0",
+  "description": "Este es mi primer proyecto de JS con NodeJS en Open Bootcamp",
+  "main": "assets/js/main.js",
+  "scripts": {
+    "start": "node assets/js/main.js",
+    "saludar": "node assets/js/hola_mundo.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Gustavo Lima",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FSJGus/open-bootcamp-ejercicio1.git"
+  },
+  "bugs": {
+    "url": "https://github.com/FSJGus/open-bootcamp-ejercicio1/issues"
+  },
+  "homepage": "https://github.com/FSJGus/open-bootcamp-ejercicio1#readme"
+}
